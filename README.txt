@@ -1,0 +1,1 @@
+This script writed by bash.
